@@ -6,5 +6,5 @@
 ### **Reminders to Yourself to have a Growth Mindset**
 ###### 1. Instead of thinking that I am not smart enough, I can instead think that I can become smart enough
 ###### 2. Instead of giving up because of frustraion, I can remind myself through hard work and determination I will evetually figure it out
-###### 3. Lastly, Instead of thinking that I can not do this, I can remind tmyself that I can not do it _yet_ ! 
+###### 3. Lastly, Instead of thinking that I can not do this, I can remind tmyself that I can not do it * yet * ! 
 ![image](https://user-images.githubusercontent.com/107425020/173414635-cffbf977-c5e5-4ee2-8a46-4202aad38d78.png)
