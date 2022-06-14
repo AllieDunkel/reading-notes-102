@@ -8,3 +8,7 @@
 ###### 2. Instead of giving up because of frustraion, I can remind myself through hard work and determination I will evetually figure it out
 ###### 3. Lastly, Instead of thinking that I can not do this, I can remind tmyself that I can not do it _yet_ ! 
 ![image](https://user-images.githubusercontent.com/107425020/173414635-cffbf977-c5e5-4ee2-8a46-4202aad38d78.png)
+### Reading Assignments
+[Reading Assignment 01](reading01.md)
+
+[Reading Assignment 02](reading02.md)
