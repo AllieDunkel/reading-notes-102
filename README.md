@@ -12,3 +12,7 @@
 [Reading Assignment 01](Reading01.md)
 
 [Reading Assignment 02](Reading02.md)
+
+[Reading Assignment 03](Reading03.md)
+
+[Reading Assignment 04](Reading04.md)
