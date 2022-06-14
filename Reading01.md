@@ -17,11 +17,11 @@
 
 ### List 
 ###### 1. Use numbers for ordered list
-###### 2. Likw this
-###### 3. And for unordered list use dasehes (-)
+###### 2. Like this
+###### 3. And for unordered list use dashes (-)
 
 ### Images 
-###### - An example would be: ![desricption name/phase](link to image)
+###### - An example would be: ![description name/phase](link to image)
 
 ### Links
-###### - An example would be: [descrition name/phase](link to page or place)
+###### - An example would be: [description name/phase](link to page or place)
