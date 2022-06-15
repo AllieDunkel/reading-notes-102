@@ -1,18 +1,26 @@
 ## Welcome to My Reading Notes 
+
 ### About Me
-###### My name is Allie Dunkel and I am from Hopkinton, Iowa. I just graduate from Mount Mercy University with my Bacholors of Sciecne with my major in Psychology. I live with my Fiance and my four cats; Theo, Shang, MooMoo, and Hiccup. Currently I am rewatching Stranger Things and enjoying the homework free life (unitl now). You can checkout my profile at https://github.com/AllieDunkel 
-###  Growth Mindset
-###### Growth mindset people believe that they can succeed through hardwork and determination. You work though obstacles without giving up, see challenges as a change to grow ands put effort towards the project. You also learn from others and accept critism as a chance to learn more. 
-### **Reminders to Yourself to have a Growth Mindset**
-###### 1. Instead of thinking that I am not smart enough, I can instead think that I can become smart enough
-###### 2. Instead of giving up because of frustraion, I can remind myself through hard work and determination I will evetually figure it out
-###### 3. Lastly, Instead of thinking that I can not do this, I can remind tmyself that I can not do it _yet_ ! 
-![image](https://user-images.githubusercontent.com/107425020/173414635-cffbf977-c5e5-4ee2-8a46-4202aad38d78.png)
-### Reading Assignments
-[Reading Assignment 01](Reading01.md)
+ My name is Allie Dunkel and I am from Hopkinton, Iowa. I just graduate from Mount Mercy University with my Bacholors of Sciecne with my major in Psychology. I live with my Fiance and my four cats; Theo, Shang, MooMoo, and Hiccup. Currently I am rewatching Stranger Things and enjoying the homework free life (unitl now). You can checkout my profile at https://github.com/AllieDunkel 
 
-[Reading Assignment 02](Reading02.md)
+# Table of Contents
 
-[Reading Assignment 03](Reading03.md)
+### Readings for all Classes
 
-[Reading Assignment 04](Reading04.md)
+[Reading 01 for Class 1](Reading01.md)
+
+[Reading 02 for Class 1](Reading02.md)
+
+[Reading 03 for Class 2](Reading03.md)
+
+[Reading 04 for Class 2](Reading04.md)
+
+[Reading 05 for Class 3](Reading05.md)
+
+[Reading 06 for Class 3](Reading06.md)
+
+[Reading 07 for Class 4](Reading07.md)
+
+[Reading 08 for Class 4](Reading08.md)
+
+[Reading 09 for Class 5](Reading09.md)
